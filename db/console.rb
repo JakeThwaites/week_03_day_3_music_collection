@@ -18,5 +18,11 @@ blonde_on_blonde.save()
 axis_bold_as_love.save()
 electric_ladyland.save()
 
+blonde_on_blonde.title = "Hello"
+blonde_on_blonde.update()
+
+jimi_hendrix.name = "James Marshall Hendrix"
+jimi_hendrix.update()
+
 binding.pry()
 nil
